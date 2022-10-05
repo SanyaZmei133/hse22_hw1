@@ -44,3 +44,13 @@
 ***
 ## Статистика и результаты отчёта
 ### Первые чтения
+![Скриншот 1](Screenshot_1.png)
+![Скриншот 2](Screenshot_2.png)
+![Скриншот 3](Screenshot_3.png)
+![Скриншот 4](Screenshot_4.png)
+![Скриншот 5](Screenshot_5.png)
+![Скриншот 6](Screenshot_6.png)
+![Скриншот 7](Screenshot_7.png)
+![Скриншот 8](Screenshot_8.png)
+![Скриншот 9](Screenshot_9.png)
+![Скриншот 10](Screenshot_10.png)
