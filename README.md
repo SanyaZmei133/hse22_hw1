@@ -76,7 +76,7 @@
 2. N50 скафолда 1035602, поолное покртыие длины
 3. Общая длина - 1035602
 ***
-## Бонусная часть
+# Бонусная часть:
 ***
 ### Уменьшили количество чтений с 5 миллионов и 1,5 миллиона до 1 и 0,5 миллионов соответственно
     seqtk sample -s827 oil_R1.fastq 1000000 > sub1.fastq
@@ -84,3 +84,39 @@
     seqtk sample -s827 oilMP_S4_L001_R1_001.fastq 500000 > mp1.fastq
     seqtk sample -s827 oilMP_S4_L001_R2_001.fastq 500000 > mp2.fastq
 ***
+## Статистика и отчёт
+### Первые чтения:
+![Скриншот 22](screenshots/Screenshot_22.png)
+![Скриншот 23](screenshots/Screenshot_23.png)
+![Скриншот 24](screenshots/Screenshot_24.png)
+![Скриншот 25](screenshots/Screenshot_25.png)
+![Скриншот 26](screenshots/Screenshot_26.png)
+![Скриншот 27]screenshots/(Screenshot_27.png)
+![Скриншот 28](screenshots/Screenshot_28.png)
+![Скриншот 29](screenshots/Screenshot_29.png)
+![Скриншот 30](screenshots/Screenshot_30.png)
+![Скриншот 31](screenshots/Screenshot_31.png)
+***
+### После подрезания чтений:
+![Скриншот 32](screenshots/Screenshot_32.png)
+![Скриншот 33](screenshots/Screenshot_33.png)
+![Скриншот 34](screenshots/Screenshot_34.png)
+![Скриншот 35](screenshots/Screenshot_35.png)
+![Скриншот 36](screenshots/Screenshot_36.png)
+![Скриншот 37](screenshots/Screenshot_37.png)
+![Скриншот 38](screenshots/Screenshot_38.png)
+![Скриншот 39](screenshots/Screenshot_39.png)
+![Скриншот 40](screenshots/Screenshot_40.png)
+![Скриншот 41](screenshots/Screenshot_41.png)
+![Скриншот 42](screenshots/Screenshot_42.png)
+***
+## Код анализа данных
+[Код анализа данных в google colab](https://colab.research.google.com/drive/1HKFa8hzziD92CKbInv8ALWJMkq8sDpFK?usp=sharing)
+***
+## Вывод
+1. Много конгитов - 1277
+2. N50 скафолда 1890955, примерно 50% покрыто
+3. Общая длина - 3853384
+***
+# Сравнение
+После уменьшения количества чтений качетво сборки упало, стало больше контигов, увеличилась общая длина, но многие параметры отчёта остались на приверно тех же уровнях, поэтому можно сказать, что общее качество не сильно ухудшилось.
