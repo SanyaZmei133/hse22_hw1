@@ -70,3 +70,17 @@
 ***
 ## Код анализа данных
 [Код анализа данных в google colab](https://colab.research.google.com/drive/1Dgivk-jPKynshjqji1PME2uCT1UTFxvc?usp=sharing)
+***
+## Вывод
+1. Мало конгитов - 190
+2. N50 скафолда 1035602, поолное покртыие длины
+3. Общая длина - 1035602
+***
+## Бонусная часть
+***
+### Уменьшили количество чтений с 5 миллионов и 1,5 миллиона до 1 и 0,5 миллионов соответственно
+    seqtk sample -s827 oil_R1.fastq 1000000 > sub1.fastq
+    seqtk sample -s827 oil_R2.fastq 1000000 > sub2.fastq
+    seqtk sample -s827 oilMP_S4_L001_R1_001.fastq 500000 > mp1.fastq
+    seqtk sample -s827 oilMP_S4_L001_R2_001.fastq 500000 > mp2.fastq
+***
