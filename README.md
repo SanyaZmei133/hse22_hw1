@@ -43,7 +43,7 @@
     rm mp2.fastq.int_trimmed
 ***
 ## Статистика и результаты отчёта
-### Первые чтения
+### Первые чтения:
 ![Скриншот 1](Screenshot_1.png)
 ![Скриншот 2](Screenshot_2.png)
 ![Скриншот 3](Screenshot_3.png)
@@ -54,3 +54,15 @@
 ![Скриншот 8](Screenshot_8.png)
 ![Скриншот 9](Screenshot_9.png)
 ![Скриншот 10](Screenshot_10.png)
+### После подрезания чтений:
+![Скриншот 11](Screenshot_11.png)
+![Скриншот 12](Screenshot_12.png)
+![Скриншот 13](Screenshot_13.png)
+![Скриншот 14](Screenshot_14.png)
+![Скриншот 15](Screenshot_15.png)
+![Скриншот 16](Screenshot_16.png)
+![Скриншот 17](Screenshot_17.png)
+![Скриншот 18](Screenshot_18.png)
+![Скриншот 19](Screenshot_19.png)
+![Скриншот 20](Screenshot_20.png)
+![Скриншот 21](Screenshot_21.png)
