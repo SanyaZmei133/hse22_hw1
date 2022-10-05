@@ -54,6 +54,7 @@
 ![Скриншот 8](Screenshot_8.png)
 ![Скриншот 9](Screenshot_9.png)
 ![Скриншот 10](Screenshot_10.png)
+***
 ### После подрезания чтений:
 ![Скриншот 11](Screenshot_11.png)
 ![Скриншот 12](Screenshot_12.png)
@@ -66,3 +67,6 @@
 ![Скриншот 19](Screenshot_19.png)
 ![Скриншот 20](Screenshot_20.png)
 ![Скриншот 21](Screenshot_21.png)
+***
+## Код анализа данных
+[Код анализа данных в google colab](https://colab.research.google.com/drive/1Dgivk-jPKynshjqji1PME2uCT1UTFxvc?usp=sharing)
